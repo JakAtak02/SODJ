@@ -1,0 +1,9 @@
+{
+  "item.jsodmod.iron_dust": "Iron Dust",
+  "item.jsodmod.gold_dust": "Gold Dust",
+  "item.jsodmod.copper_dust": "Copper Dust",
+
+  "block.jsodmod.ore_grinder": "Ore Grinder",
+
+  "itemGroup.jsodmodtab": "Jak's Simple Ore Doubling"
+}

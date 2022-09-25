@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "jsodmod:block/ore_grinder_front_on",
+    "side": "jsodmod:block/ore_grinder_side",
+    "top": "jsodmod:block/ore_grinder_top"
+  }
+}
